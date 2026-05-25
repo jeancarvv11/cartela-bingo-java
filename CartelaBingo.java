@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-public class Ex14 {
+public class CartelaBingo {
     public static void main(String[] args){
         Scanner in=  new Scanner(System.in);
         int m[][] = new int[5][5];
